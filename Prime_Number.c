@@ -15,7 +15,7 @@ int main()
         }
         if (m == 2)
         {
-            printf("%d\n ", prime_no);
+            printf("%d\n", prime_no);
             n++;
         }
         prime_no++;
